@@ -1,2 +1,2 @@
-#Exemplo alterado
+#Alterado
 print("Hello World")
