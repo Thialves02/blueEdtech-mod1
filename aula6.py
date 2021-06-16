@@ -1,2 +1,0 @@
-#Alterado
-print("Hello World")
